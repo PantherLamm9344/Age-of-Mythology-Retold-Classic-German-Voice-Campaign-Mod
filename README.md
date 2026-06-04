@@ -8,7 +8,7 @@ Diese Modifikation für das Echtzeitstrategiespiel *Age of Mythology: Retold* er
 * ⭐ **Bewertung:** 5/5 Sterne (bei >350 Rezensionen)
 * 🔄 **Wartung:** Kontinuierlicher Support mit bisher 7 Major-Updates
 
-🔗 **[Hier geht es zur Live-Version der Mod auf der offiziellen Plattform] (Setze hier deinen Link zur offiziellen Mod-Seite ein)**
+🔗 **[Hier geht es zur Live-Version der Mod auf der offiziellen Plattform] (https://www.ageofempires.com/mods/details/286715/)**
 
 ---
 
